@@ -1,5 +1,8 @@
 In this practice let's build an **Appointments App** by applying the concepts we have learned till now.
 
+### Link to the page is given below:
+https://mkappointments.ccbp.tech/
+
 ### Refer to the image below:
 
 <br/>
